@@ -1,0 +1,1 @@
+This repository aims to show how easy it can be to render a React app on the server. It includes `styled-components` and `react-helmet` to provide a more "real-world" example where your app has some CSS and SEO content.
